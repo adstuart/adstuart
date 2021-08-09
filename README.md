@@ -1,5 +1,3 @@
-### Hi there 👋, I'm Adam.
-
 I work for Microsoft and spend 90% of my time on Cloud Networking. You won't find much code here, rather articles relating to the design and configuration of Azure Networking solutions and products. Before reading these repos, you should checkout my colleagues who are much smarter than me:
 
 - https://github.com/jocortems
