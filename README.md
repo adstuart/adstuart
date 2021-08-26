@@ -17,8 +17,9 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [Migrate from DirectAccess to Always On VPN with Azure Virtual WAN](https://github.com/adstuart/azure-vpn-p2s/tree/main/vwan-multihub)
   - Migrate from DirectAccess to Always On VPN with Azure VPN Gateway - _coming soon_
   - [Azure VPN Client deployment via Intune](https://github.com/adstuart/azure-vpn-p2s/tree/main/intune-azurevpnclient)
-  - [Optimising Azure VPN P2S costs using Intune and Windows 10 VPN autotrigger](Optimising Azure VPN P2S costs using Intune and Windows 10 VPN autotrigger)
-  - [P2S command cheatsheet](Misc commands, links and snippets of knowledge useful when working with Azure VPN P2S solutions)
+  - [Optimising Azure VPN P2S costs using Intune and Windows 10 VPN autotrigger](https://github.com/adstuart/azure-vpn-p2s/tree/main/intune-win10-triggers)
+  - [P2S command cheatsheet](https://github.com/adstuart/azure-vpn-p2s/tree/main/misc-cheatsheet)
+  
 - Azure Private Link
   - [Azure Private Link Governance using RBAC and Azure Policy](https://github.com/adstuart/azure-privatelink-policy)
   - [Using Azure Firewall as DNS Forwarder with Private Link](https://github.com/adstuart/azure-privatelink-dns-azurefirewall)
