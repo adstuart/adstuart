@@ -32,7 +32,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - Sharing an ExpressRoute Circuit - _coming soon_
 
 - Azure Load Balancing
-  - [Azure Internal Load Balancer (ILB) hairpin)(https://github.com/microsoft/Azure-ILB-hairpin)
+  - [Azure Internal Load Balancer (ILB) hairpin](https://github.com/microsoft/Azure-ILB-hairpin)
   - [Cross-region private network load balancing in Azure](https://github.com/adstuart/azure-crossregion-private-lb)
 
 - Other
