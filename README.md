@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 I work for Microsoft and spend 90% of my time on Cloud Networking. You won't find much code here, rather articles relating to the design and configuration of Azure Networking solutions and products. Before reading these repos, you should checkout my colleagues who are much smarter than me:
 
@@ -11,7 +11,7 @@ I work for Microsoft and spend 90% of my time on Cloud Networking. You won't fin
 
 Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamstuart1" height="20" width="20" /></a>
 
-# Repo structure
+## Repo structure
 
 - [Azure P2S VPN](https://github.com/adstuart/azure-vpn-p2s)
   - [Migrate from DirectAccess to Always On VPN with Azure Virtual WAN](https://github.com/adstuart/azure-vpn-p2s/tree/main/vwan-multihub)
