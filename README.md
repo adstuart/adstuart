@@ -17,7 +17,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
 
 - [Azure P2S VPN](https://github.com/adstuart/azure-vpn-p2s)
   - [Migrate from DirectAccess to Always On VPN with Azure Virtual WAN](https://github.com/adstuart/azure-vpn-p2s/tree/main/vwan-multihub)
-  - Migrate from DirectAccess to Always On VPN with Azure VPN Gateway - _coming soon_
+  - [Migrate from DirectAccess to Always On VPN with Azure VPN Gateway](https://github.com/adstuart/azure-vpn-p2s/tree/main/vpngateway-multivnet)
   - [Azure VPN Client deployment via Intune](https://github.com/adstuart/azure-vpn-p2s/tree/main/intune-azurevpnclient)
   - [Optimising Azure VPN P2S costs using Intune and Windows 10 VPN autotrigger](https://github.com/adstuart/azure-vpn-p2s/tree/main/intune-win10-triggers)
   - [P2S command cheatsheet](https://github.com/adstuart/azure-vpn-p2s/tree/main/misc-cheatsheet)
