@@ -32,6 +32,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - Well Architected Framework for Azure ExpressRoute - _coming soon_
   - [ExpressRoute Migration Guide](https://github.com/adstuart/azure-expressroute-migration)
   - Sharing an ExpressRoute Circuit - _coming soon_
+  - [Combining ExpressRoute Direct with ExpressRoute Local](https://github.com/adstuart/azure-expressroute-direct-local)
 
 - Azure Load Balancing
   - [Azure Internal Load Balancer (ILB) hairpin](https://github.com/microsoft/Azure-ILB-hairpin)
