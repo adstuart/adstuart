@@ -38,6 +38,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
 - Azure Load Balancing
   - [Azure Internal Load Balancer (ILB) hairpin](https://github.com/microsoft/Azure-ILB-hairpin)
   - [Cross-region private network load balancing in Azure](https://github.com/adstuart/azure-crossregion-private-lb)
+  - [Azure Load Balancer Floating IP to On-Premises (or AVS) backend](https://github.com/adstuart/azure-dnat-floatingip-csr)
 
 - Other
   - [Azure Networking Mindmap](https://github.com/adstuart/azurenetworkingmindmap/blob/master/Azure%20Networking%20Product%20Map%20V2.0.png)
