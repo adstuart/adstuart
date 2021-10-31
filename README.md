@@ -23,6 +23,10 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [Windows 10 IKEv2 traffic selectors](https://github.com/adstuart/azure-vpn-p2s/tree/main/misc-win10-ikev2-trafficselectors)
   - [P2S command cheatsheet](https://github.com/adstuart/azure-vpn-p2s/tree/main/misc-cheatsheet)
   
+- [Azure S2S VPN](https://github.com/adstuart/azure-vpn-s2s)
+  - [High-security S2S VPN connectivity, Azure to 3rd parties](https://github.com/adstuart/azure-vpn-s2s/tree/main/3P-connectivity)
+  - [Expected downtime when resizing VPN Gateway SKU](https://github.com/adstuart/azure-vpn-s2s/tree/main/resize-gateway)
+  
 - Azure Private Link
   - [Azure Private Link Governance using RBAC and Azure Policy](https://github.com/adstuart/azure-privatelink-policy)
   - [Using Azure Firewall as DNS Forwarder with Private Link](https://github.com/adstuart/azure-privatelink-dns-azurefirewall)
