@@ -15,7 +15,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
 
 ## Repo structure
 
-- [Azure P2S VPN](https://github.com/adstuart/azure-vpn-p2s)
+- Azure P2S VPN
   - [Migrate from DirectAccess to Always On VPN with Azure Virtual WAN](https://github.com/adstuart/azure-vpn-p2s/tree/main/vwan-multihub)
   - [Migrate from DirectAccess to Always On VPN with Azure VPN Gateway](https://github.com/adstuart/azure-vpn-p2s/tree/main/vpngateway-multivnet)
   - [Azure VPN Client deployment via Intune](https://github.com/adstuart/azure-vpn-p2s/tree/main/intune-azurevpnclient)
@@ -23,7 +23,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [Windows 10 IKEv2 traffic selectors](https://github.com/adstuart/azure-vpn-p2s/tree/main/misc-win10-ikev2-trafficselectors)
   - [P2S command cheatsheet](https://github.com/adstuart/azure-vpn-p2s/tree/main/misc-cheatsheet)
   
-- [Azure S2S VPN](https://github.com/adstuart/azure-vpn-s2s)
+- Azure S2S VPN
   - [High-security S2S VPN connectivity, Azure to 3rd parties](https://github.com/adstuart/azure-vpn-s2s/tree/main/3P-connectivity)
   - [Expected downtime when resizing VPN Gateway SKU](https://github.com/adstuart/azure-vpn-s2s/tree/main/resize-gateway)
   
