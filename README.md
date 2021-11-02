@@ -39,6 +39,9 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - Sharing an ExpressRoute Circuit - _coming soon_
   - [Combining ExpressRoute Direct with ExpressRoute Local](https://github.com/adstuart/azure-expressroute-direct-local)
 
+- Azure Firewall
+  - [Stop/Start AZFW dataplane](https://github.com/adstuart/azure-firewall-deallocate)
+  
 - Azure Route Server
   - [ARS summarisation](https://github.com/adstuart/azure-routeserver-summarisation)
 
