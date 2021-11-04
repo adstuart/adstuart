@@ -26,6 +26,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
 - Azure S2S VPN
   - [High-security S2S VPN connectivity, Azure to 3rd parties](https://github.com/adstuart/azure-vpn-s2s/tree/main/3P-connectivity)
   - [Expected downtime when resizing VPN Gateway SKU](https://github.com/adstuart/azure-vpn-s2s/tree/main/resize-gateway)
+  - [AS-path manipulation A/A VPN-GW](https://github.com/adstuart/azure-vpn-s2s/tree/main/active-active-aspath)
   
 - Azure Private Link
   - [Azure Private Link Governance using RBAC and Azure Policy](https://github.com/adstuart/azure-privatelink-policy)
