@@ -47,6 +47,9 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [ARS summarisation](https://github.com/adstuart/azure-routeserver-summarisation)
   - [Azure Route Server and Anycast](https://github.com/adstuart/azure-routeserver-anycast)
 
+- Azure Virtual WAN
+  - [Azure Virtual WAN BGP Peering (preview)- Anycast multi-region load balancing](https://github.com/adstuart/azure-vwan-anycast)
+
 - Azure Load Balancing
   - [Azure Internal Load Balancer (ILB) hairpin](https://github.com/microsoft/Azure-ILB-hairpin)
   - [Cross-region private network load balancing in Azure](https://github.com/adstuart/azure-crossregion-private-lb)
