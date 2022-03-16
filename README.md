@@ -32,7 +32,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [Azure Private Link Governance using RBAC and Azure Policy](https://github.com/adstuart/azure-privatelink-policy)
   - [Using Azure Firewall as DNS Forwarder with Private Link](https://github.com/adstuart/azure-privatelink-dns-azurefirewall)
   - [Azure Private Link DNS MicroHack](https://github.com/adstuart/azure-privatelink-dns-microhack)
-  - Planning for multi-region High Availability and Disaster Recovery with Azure Private Link - _coming soon_
+  - [DNS considerations for Multi-region use of Azure Private Link](azure-privatelink-multiregion)
 
 - Azure ExpressRoute
   - Well Architected Framework for Azure ExpressRoute - _coming soon_
