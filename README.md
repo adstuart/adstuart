@@ -47,6 +47,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
 - Azure Route Server
   - [ARS summarisation](https://github.com/adstuart/azure-routeserver-summarisation)
   - [Azure Route Server and Anycast](https://github.com/adstuart/azure-routeserver-anycast)
+  - [Azure Route Server + Infoblox](https://github.com/adstuart/azure-routeserver-infoblox)
 
 - Azure Virtual WAN
   - [Azure Virtual WAN BGP Peering (preview)- Anycast multi-region load balancing](https://github.com/adstuart/azure-vwan-anycast)
