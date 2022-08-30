@@ -33,7 +33,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [Using Azure Firewall as DNS Forwarder with Private Link](https://github.com/adstuart/azure-privatelink-dns-azurefirewall)
   - [Azure Private Link DNS MicroHack](https://github.com/adstuart/azure-privatelink-dns-microhack)
   - [DNS considerations for Multi-region use of Azure Private Link](https://github.com/adstuart/azure-privatelink-multiregion)
-  - [Azure Site Recovery and Private Link DNS)(https://github.com/adstuart/azure-privatelink-multiregion-siterecovery-asr)
+  - [Azure Site Recovery and Private Link DNS](https://github.com/adstuart/azure-privatelink-multiregion-siterecovery-asr)
 
 - Azure ExpressRoute
   - Well Architected Framework for Azure ExpressRoute - _coming soon_
