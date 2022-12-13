@@ -22,6 +22,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [Optimising Azure VPN P2S costs using Intune and Windows 10 VPN autotrigger](https://github.com/adstuart/azure-vpn-p2s/tree/main/intune-win10-triggers)
   - [Windows 10 IKEv2 traffic selectors](https://github.com/adstuart/azure-vpn-p2s/tree/main/misc-win10-ikev2-trafficselectors)
   - [P2S command cheatsheet](https://github.com/adstuart/azure-vpn-p2s/tree/main/misc-cheatsheet)
+  - [P2S custom routes](https://github.com/adstuart/azure-vpn-p2s/tree/main/custom-routes)
   
 - Azure S2S VPN
   - [High-security S2S VPN connectivity, Azure to 3rd parties](https://github.com/adstuart/azure-vpn-s2s/tree/main/3P-connectivity)
