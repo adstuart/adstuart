@@ -36,6 +36,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [DNS considerations for Multi-region use of Azure Private Link](https://github.com/adstuart/azure-privatelink-multiregion)
   - [Multi-region Private Link Service categories](https://github.com/adstuart/azure-privatelink-multiregion-services)
   - [Azure Site Recovery and Private Link DNS](https://github.com/adstuart/azure-privatelink-multiregion-siterecovery-asr)
+  - [Using Azure Private Link with PartitionedDns enabled Azure Storage accounts](https://github.com/adstuart/-azure-privatelink-storage-dnsparition)
 
 - Azure ExpressRoute
   - Well Architected Framework for Azure ExpressRoute - _coming soon_
