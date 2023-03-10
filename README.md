@@ -63,6 +63,9 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [Cross-region private network load balancing in Azure](https://github.com/adstuart/azure-crossregion-private-lb)
   - [Azure Load Balancer Floating IP to On-Premises (or AVS) backend](https://github.com/adstuart/azure-dnat-floatingip-csr)
 
+- Azure DNS
+  - [Azure DNS Private Resolver topology options](https://github.com/adstuart/azure-resolver-topologyoptions)
+
 - Other 
   - [Azure Networking Mindmap](https://github.com/adstuart/azurenetworkingmindmap/blob/master/Azure%20Networking%20Product%20Map%20V2.0.png)
   - [SD-WAN and Azure](https://github.com/adstuart/azure-sdwan)
