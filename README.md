@@ -53,6 +53,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [Azure Internal Load Balancer (ILB) hairpin](https://github.com/microsoft/Azure-ILB-hairpin)
   - [Cross-region private network load balancing in Azure](https://github.com/adstuart/azure-crossregion-private-lb)
   - [Azure Load Balancer Floating IP to On-Premises (or AVS) backend](https://github.com/adstuart/azure-dnat-floatingip-csr)
+  - [Azure Gateway Load Balancer Service Chaining with HAPRoxy and Palo Alto](https://github.com/adstuart/azure-gwlb-chain)
 
 - Azure DNS
   - [Azure DNS Private Resolver topology options](https://github.com/adstuart/azure-resolver-topologyoptions)
