@@ -32,6 +32,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
 - Azure Virtual WAN
   - [Azure Virtual WAN BGP Peering - Anycast multi-region load balancing](https://github.com/adstuart/azure-vwan-anycast)
   - [Connect Cisco ASA to VWAN via IPsec VPN](https://github.com/adstuart/azure-vwan-asa)
+  - [Azure Virtual WAN Route-Maps ASN guidance](https://github.com/adstuart/azure-vwan-routemaps-asn)
   
 - Azure ExpressRoute
   - [ExpressRoute Migration Guide](https://github.com/adstuart/azure-expressroute-migration)
