@@ -33,11 +33,13 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [Azure Virtual WAN BGP Peering - Anycast multi-region load balancing](https://github.com/adstuart/azure-vwan-anycast)
   - [Connect Cisco ASA to VWAN via IPsec VPN](https://github.com/adstuart/azure-vwan-asa)
   - [Azure Virtual WAN Route-Maps ASN guidance](https://github.com/adstuart/azure-vwan-routemaps-asn)
+  - [VWAN default route scenarios](https://github.com/adstuart/azure-vwan-defaultroute)
   
 - Azure ExpressRoute
   - [ExpressRoute Migration Guide](https://github.com/adstuart/azure-expressroute-migration)
   - [Combining ExpressRoute Direct with ExpressRoute Local](https://github.com/adstuart/azure-expressroute-direct-local)
   - [ExpressRoute GlobalReach and AVS considerations](https://github.com/adstuart/azure-expressroute-globalreach-avs)
+  - [ExpressRoute ECMP behaviour](https://github.com/adstuart/azure-expressroute-ecmp)
 
 - Azure Route Server
   - [ARS summarisation](https://github.com/adstuart/azure-routeserver-summarisation)
