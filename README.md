@@ -35,6 +35,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [Connect Cisco ASA to VWAN via IPsec VPN](https://github.com/adstuart/azure-vwan-asa)
   - [Azure Virtual WAN Route-Maps ASN guidance](https://github.com/adstuart/azure-vwan-routemaps-asn)
   - [VWAN default route scenarios](https://github.com/adstuart/azure-vwan-defaultroute)
+  - [VWAN Forced tunnel over s2s VPN](https://github.com/adstuart/azure-vwan-s2s-forcedtunnel)
   
 - Azure ExpressRoute
   - [ExpressRoute Migration Guide](https://github.com/adstuart/azure-expressroute-migration)
