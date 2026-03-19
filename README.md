@@ -6,6 +6,10 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
 
 ## Repo structure
 
+- AI Workloads — Infrastructure, Networking & Security
+  - [Azure AI Foundry Governance — Single vs Multi-Resource Architecture Decision](https://github.com/adstuart/azure-foundry-governance)
+  - [Do I Need a WAF in Front of My AI Workload?](https://github.com/adstuart/do-i-need-a-waf-for-my-ai-workload)
+
 - Azure P2S VPN
   - [Migrate from DirectAccess to Always On VPN with Azure Virtual WAN](https://github.com/adstuart/azure-vpn-p2s/tree/main/vwan-multihub)
   - [Migrate from DirectAccess to Always On VPN with Azure VPN Gateway](https://github.com/adstuart/azure-vpn-p2s/tree/main/vpngateway-multivnet)
