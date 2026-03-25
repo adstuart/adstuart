@@ -32,6 +32,8 @@ Connect with me: &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C
 | | [Beyond 500 Spoke VNets](https://github.com/adstuart/azure-vnet-beyond-500-spokes) | 2022 | 21 |
 | | [ARS ESU Neworking guidance](https://github.com/adstuart/azure-arc-esu) | 2023 | 8 |
 | | [VNet Flow Logs - Hub vs Spoke enablement considerations](https://github.com/adstuart/azure-vnetflowlogs-wheretoenable) | 2024 | 5 |
+| | [Azure Private Subnet](https://github.com/adstuart/azure-private-subnet) | 2024 | 2 |
+| | [Azure Storage Local with Arc](https://github.com/adstuart/azure-storage-local-arc) | 2025 | 0 |
 | **S2S VPN** | [High-security S2S VPN connectivity, Azure to 3rd parties](https://github.com/adstuart/azure-vpn-s2s/tree/main/3P-connectivity) | 2021 | 11 |
 | | [Expected downtime when resizing VPN Gateway SKU](https://github.com/adstuart/azure-vpn-s2s/tree/main/resize-gateway) | 2021 | 11 |
 | | [AS-path manipulation A/A VPN-GW](https://github.com/adstuart/azure-vpn-s2s/tree/main/active-active-aspath) | 2021 | 11 |
