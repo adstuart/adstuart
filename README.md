@@ -6,22 +6,6 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
 
 ## Repo structure
 
-| Category | Articles |
-|----------|:--------:|
-| [Azure P2S VPN](#azure-p2s-vpn) | 7 |
-| [Azure Private Link](#azure-private-link) | 7 |
-| [Azure Virtual WAN](#azure-virtual-wan) | 5 |
-| [Other](#other) | 5 |
-| [Azure S2S VPN](#azure-s2s-vpn) | 4 |
-| [Azure ExpressRoute](#azure-expressroute) | 4 |
-| [Azure Route Server](#azure-route-server) | 4 |
-| [Azure Load Balancing](#azure-load-balancing) | 4 |
-| [AI Workloads](#ai-workloads--infrastructure-networking--security) | 2 |
-| [Azure Firewall](#azure-firewall) | 2 |
-| [Azure DNS](#azure-dns) | 1 |
-
----
-
 <details>
 <summary><b>Azure P2S VPN</b> (7 articles)</summary>
 
