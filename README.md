@@ -61,6 +61,7 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
 
 - Azure Firewall
   - [Stop/Start AZFW dataplane](https://github.com/adstuart/azure-firewall-deallocate)
+  - [Customer-managed Public IPs at scale on AZFW in VWAN Hub](https://github.com/adstuart/azure-firewall-vwan-multipip)
   
 - Azure DNS
   - [Azure DNS Private Resolver topology options](https://github.com/adstuart/azure-resolver-topologyoptions)
@@ -70,4 +71,5 @@ Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank">
   - [SD-WAN and Azure](https://github.com/adstuart/azure-sdwan)
   - [Beyond 500 Spoke VNets](https://github.com/adstuart/azure-vnet-beyond-500-spokes)
   - [ARS ESU Neworking guidance](https://github.com/adstuart/azure-arc-esu)
+  - [VNet Flow Logs - Hub vs Spoke enablement considerations](https://github.com/adstuart/azure-vnetflowlogs-wheretoenable)
 
