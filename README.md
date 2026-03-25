@@ -2,7 +2,7 @@
 
 I work for Microsoft and spend 90% of my time on Cloud Networking. You won't find much code here, rather articles relating to the design and configuration of Azure Networking solutions and products. Checkout who I [follow](https://github.com/adstuart?tab=following) on GitHub for colleagues at Microsoft who publish similar content.
 
-Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamstuart1" height="20" width="20" /></a> <a href="https://www.youtube.com/channel/UCRAegs4OmMFVGcU9tDBRlKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adamstuartY" height="20" width="20" /></a>
+Connect with me:   <a href="https://linkedin.com/in/adamstuart1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamstuart1" height="20" width="20" /></a> <a href="https://www.youtube.com/channel/UCRAegs4OmMFVGcU9tDBRlKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adamstuartY" height="20" width="20" /></a> <a href="https://azurenetworkingbook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" alt="azurenetworkingbook" height="20" width="20" /></a>
 
 ## Repo structure
 
