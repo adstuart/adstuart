@@ -189,7 +189,17 @@ def render_section(repos: list[dict]) -> str:
     lines = [f"_Generated from public GitHub repo metadata. Latest activity: {latest_activity}._", ""]
 
     for category, items in categories.items():
-        items.sort(key=lambda item: parse_timestamp(item.get("pushed_at")), reverse=True)
+        if category == "Azure networking":
+            items.sort(
+                key=lambda item: (
+                    parse_timestamp(item.get("created_at")),
+                    parse_timestamp(item.get("pushed_at")),
+                    item.get("name", ""),
+                ),
+                reverse=True,
+            )
+        else:
+            items.sort(key=lambda item: parse_timestamp(item.get("pushed_at")), reverse=True)
         if not items:
             continue
         lines.append(f"<details>")
