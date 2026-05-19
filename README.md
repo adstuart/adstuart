@@ -1,6 +1,6 @@
 # Adam Stuart
 
-I work at Microsoft as a Solutions Engineer in Cloud and AI. My background is in Infra and Networking. [LinkedIn](https://linkedin.com/in/adamstuart1) · [YouTube](https://www.youtube.com/channel/UCRAegs4OmMFVGcU9tDBRlKg) · [Azure Networking book](https://azurenetworkingbook.com). Most repos here are field notes, labs, and reference guides rather than raw code. This index is generated from my public GitHub repositories and refreshes automatically.
+I work at Microsoft as a Solutions Engineer in Cloud and AI. My background is in Infra and Networking. [LinkedIn](https://linkedin.com/in/adamstuart1) · [YouTube](https://www.youtube.com/channel/UCRAegs4OmMFVGcU9tDBRlKg) · [Azure Networking book](https://azurenetworkingbook.com). Most repos here are field notes, labs, and reference guides rather than raw code.
 
 <!-- PUBLIC-REPOS:START -->
 _Generated from public GitHub repo metadata. Latest activity: 2026-05-19._
