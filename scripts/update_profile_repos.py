@@ -16,7 +16,6 @@ OWNER = os.getenv("GITHUB_OWNER", "adstuart")
 README_PATH = os.getenv("README_PATH", "README.md")
 START = "<!-- PUBLIC-REPOS:START -->"
 END = "<!-- PUBLIC-REPOS:END -->"
-ACTIVE_CUTOFF = dt.datetime(2025, 1, 1, tzinfo=dt.timezone.utc)
 
 AI_KEYWORDS = {
     "ai",
@@ -146,10 +145,7 @@ def categorize(repo: dict) -> str:
         return "Tools, demos, and experiments"
 
     if has_any(repo, NETWORKING_KEYWORDS) or name.startswith("azure-"):
-        pushed_at = parse_timestamp(repo.get("pushed_at"))
-        if repo.get("archived") or pushed_at < ACTIVE_CUTOFF:
-            return "Azure networking - older or archived"
-        return "Azure networking - active"
+        return "Azure networking"
 
     if has_any(repo, TOOLING_KEYWORDS):
         return "Tools, demos, and experiments"
@@ -166,17 +162,17 @@ def clean_description(text: str | None) -> str:
 
 def render_repo(repo: dict) -> str:
     description = clean_description(repo.get("description"))
+    created_year = parse_timestamp(repo.get("created_at")).strftime("%Y")
     suffix = " _(archived)_" if repo.get("archived") else ""
     if not description:
-        return f"- [{repo['name']}]({repo['html_url']}){suffix}"
-    return f"- [{repo['name']}]({repo['html_url']}) — {description}{suffix}"
+        return f"- [{repo['name']}]({repo['html_url']}) ({created_year}){suffix}"
+    return f"- [{repo['name']}]({repo['html_url']}) ({created_year}) — {description}{suffix}"
 
 
 def render_section(repos: list[dict]) -> str:
     categories = {
         "AI and agents": [],
-        "Azure networking - active": [],
-        "Azure networking - older or archived": [],
+        "Azure networking": [],
         "Tools, demos, and experiments": [],
         "Other public repos": [],
     }
