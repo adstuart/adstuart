@@ -1,58 +1,95 @@
+# Adam Stuart
+
 ## Introduction
 
-I work for Microsoft and spend 90% of my time on Cloud Networking. You won't find much code here, rather articles relating to the design and configuration of Azure Networking solutions and products. Checkout who I [follow](https://github.com/adstuart?tab=following) on GitHub for colleagues at Microsoft who publish similar content.
+I work at Microsoft, focused on cloud and AI: mapping requirements to
+solutions. My background is in networking.
 
-Connect with me: &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamstuart1) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRAegs4OmMFVGcU9tDBRlKg) [![Azure Networking Book](https://img.shields.io/badge/📘_Azure_Networking_Book-0078D4?style=for-the-badge)](https://azurenetworkingbook.com)
+[LinkedIn](https://linkedin.com/in/adamstuart1) ·
+[YouTube](https://www.youtube.com/channel/UCRAegs4OmMFVGcU9tDBRlKg) ·
+[Azure Networking Book](https://azurenetworkingbook.com)
 
-## Repo structure
+## Public repos
 
-| Category | Article | Year | ⭐ |
-|----------|---------|:----:|:--:|
-| **P2S VPN** | [Migrate from DirectAccess to Always On VPN with Azure Virtual WAN](https://github.com/adstuart/azure-vpn-p2s/tree/main/vwan-multihub) | 2021 | 17 |
-| | [Migrate from DirectAccess to Always On VPN with Azure VPN Gateway](https://github.com/adstuart/azure-vpn-p2s/tree/main/vpngateway-multivnet) | 2021 | 17 |
-| | [Azure VPN Client deployment via Intune](https://github.com/adstuart/azure-vpn-p2s/tree/main/intune-azurevpnclient) | 2021 | 17 |
-| | [Optimising Azure VPN P2S costs using Intune and Windows 10 VPN autotrigger](https://github.com/adstuart/azure-vpn-p2s/tree/main/intune-win10-triggers) | 2021 | 17 |
-| | [Windows 10 IKEv2 traffic selectors](https://github.com/adstuart/azure-vpn-p2s/tree/main/misc-win10-ikev2-trafficselectors) | 2021 | 17 |
-| | [P2S command cheatsheet](https://github.com/adstuart/azure-vpn-p2s/tree/main/misc-cheatsheet) | 2021 | 17 |
-| | [P2S custom routes](https://github.com/adstuart/azure-vpn-p2s/tree/main/custom-routes) | 2021 | 17 |
-| **PL** | [Azure Private Link Governance using RBAC and Azure Policy](https://github.com/adstuart/azure-privatelink-policy) | 2020 | 16 |
-| | [Using Azure Firewall as DNS Forwarder with Private Link](https://github.com/adstuart/azure-privatelink-dns-azurefirewall) | 2020 | 22 |
-| | [Azure Private Link DNS MicroHack](https://github.com/adstuart/azure-privatelink-dns-microhack) | 2020 | 75 |
-| | [DNS considerations for Multi-region use of Azure Private Link](https://github.com/adstuart/azure-privatelink-multiregion) | 2021 | 75 |
-| | [Multi-region Private Link Service categories](https://github.com/adstuart/azure-privatelink-multiregion-services) | 2022 | 14 |
-| | [Azure Site Recovery and Private Link DNS](https://github.com/adstuart/azure-privatelink-multiregion-siterecovery-asr) | 2022 | 7 |
-| | [Using Azure Private Link with PartitionedDns enabled Azure Storage accounts](https://github.com/adstuart/-azure-privatelink-storage-dnsparition) | 2023 | 5 |
-| **VWAN** | [Azure Virtual WAN BGP Peering - Anycast multi-region load balancing](https://github.com/adstuart/azure-vwan-anycast) | 2021 | 17 |
-| | [Connect Cisco ASA to VWAN via IPsec VPN](https://github.com/adstuart/azure-vwan-asa) | 2022 | 5 |
-| | [Azure Virtual WAN Route-Maps ASN guidance](https://github.com/adstuart/azure-vwan-routemaps-asn) | 2023 | 5 |
-| | [VWAN default route scenarios](https://github.com/adstuart/azure-vwan-defaultroute) | 2023 | 2 |
-| | [VWAN Forced tunnel over s2s VPN](https://github.com/adstuart/azure-vwan-s2s-forcedtunnel) | 2023 | 4 |
-| **Other** | [Azure Networking Mindmap](https://github.com/adstuart/azurenetworkingmindmap/blob/master/Azure%20Networking%20Product%20Map%20V2.0.png) | 2019 | 7 |
-| | [SD-WAN and Azure](https://github.com/adstuart/azure-sdwan) | 2022 | 24 |
-| | [Beyond 500 Spoke VNets](https://github.com/adstuart/azure-vnet-beyond-500-spokes) | 2022 | 21 |
-| | [ARS ESU Neworking guidance](https://github.com/adstuart/azure-arc-esu) | 2023 | 8 |
-| | [VNet Flow Logs - Hub vs Spoke enablement considerations](https://github.com/adstuart/azure-vnetflowlogs-wheretoenable) | 2024 | 5 |
-| | [Azure Private Subnet](https://github.com/adstuart/azure-private-subnet) | 2024 | 2 |
-| | [Azure Storage Local with Arc](https://github.com/adstuart/azure-storage-local-arc) | 2025 | 0 |
-| **S2S VPN** | [High-security S2S VPN connectivity, Azure to 3rd parties](https://github.com/adstuart/azure-vpn-s2s/tree/main/3P-connectivity) | 2021 | 11 |
-| | [Expected downtime when resizing VPN Gateway SKU](https://github.com/adstuart/azure-vpn-s2s/tree/main/resize-gateway) | 2021 | 11 |
-| | [AS-path manipulation A/A VPN-GW](https://github.com/adstuart/azure-vpn-s2s/tree/main/active-active-aspath) | 2021 | 11 |
-| | [Floating IP failover behaviour on VPN GW and VWAN](https://github.com/adstuart/azure-vpn-s2s/tree/main/failover-floating) | 2021 | 11 |
-| **ER** | [ExpressRoute Migration Guide](https://github.com/adstuart/azure-expressroute-migration) | 2021 | 41 |
-| | [Combining ExpressRoute Direct with ExpressRoute Local](https://github.com/adstuart/azure-expressroute-direct-local) | 2021 | 16 |
-| | [ExpressRoute GlobalReach and AVS considerations](https://github.com/adstuart/azure-expressroute-globalreach-avs) | 2022 | 3 |
-| | [ExpressRoute ECMP behaviour](https://github.com/adstuart/azure-expressroute-ecmp) | 2023 | 1 |
-| **ARS** | [ARS summarisation](https://github.com/adstuart/azure-routeserver-summarisation) | 2021 | 8 |
-| | [Azure Route Server and Anycast](https://github.com/adstuart/azure-routeserver-anycast) | 2021 | 30 |
-| | [Azure Route Server + Infoblox](https://github.com/adstuart/azure-routeserver-infoblox) | 2021 | 5 |
-| | [Azure Route Server MSEE transit gotchas](https://github.com/adstuart/azure-anycast-interregion) | 2021 | 5 |
-| **LB** | [Azure Load Balancer hairpin](https://github.com/microsoft/Azure-ILB-hairpin) | 2019 | 15 |
-| | [Cross-region private network load balancing in Azure](https://github.com/adstuart/azure-crossregion-private-lb) | 2021 | 40 |
-| | [Azure Load Balancer Floating IP to On-Premises (or AVS) backend](https://github.com/adstuart/azure-dnat-floatingip-csr) | 2021 | 1 |
-| | [Azure Gateway Load Balancer Service Chaining with HAPRoxy and Palo Alto](https://github.com/adstuart/azure-gwlb-chain) | 2023 | 12 |
-| **AI** | [Azure AI Foundry Governance — Single vs Multi-Resource Architecture Decision](https://github.com/adstuart/azure-foundry-governance) | 2026 | 0 |
-| | [Do I Need a WAF in Front of My AI Workload?](https://github.com/adstuart/do-i-need-a-waf-for-my-ai-workload) | 2026 | 0 |
-| **AZFW** | [Stop/Start AZFW dataplane](https://github.com/adstuart/azure-firewall-deallocate) | 2021 | 14 |
-| | [Customer-managed Public IPs at scale on AZFW in VWAN Hub](https://github.com/adstuart/azure-firewall-vwan-multipip) | 2025 | 0 |
-| **DNS** | [Azure DNS Private Resolver topology options](https://github.com/adstuart/azure-resolver-topologyoptions) | 2023 | 19 |
+Most repos here are field notes, labs, and reference guides rather than product
+code. This index is generated from my public GitHub repositories and refreshes
+automatically.
 
+<!-- PUBLIC-REPOS:START -->
+_Generated from public GitHub repo metadata. Latest activity: 2026-05-19._
+
+<details>
+<summary><strong>AI and agents</strong> (6)</summary>
+
+- [gateways-in-microsoft-foundry](https://github.com/adstuart/gateways-in-microsoft-foundry) — Public guide to gateway layers for Microsoft Foundry, APIM AI Gateway, model routing, MCP, WAF, and OWASP...
+- [goal-maker-ghcp](https://github.com/adstuart/goal-maker-ghcp) — Codex-style goal loop for GitHub Copilot CLI
+- [copilot-cli-cost-meter](https://github.com/adstuart/copilot-cli-cost-meter)
+- [azure-foundry-governance](https://github.com/adstuart/azure-foundry-governance) — This document evaluates the architectural decision between deploying a single Azure AI Foundry resource or...
+- [copilot-teams-bridge](https://github.com/adstuart/copilot-teams-bridge) — Teams ↔ Copilot CLI bridge — talk to your local dev machine from your phone
+- [azure-video-factory-public](https://github.com/adstuart/azure-video-factory-public) — How to use GitHub Copilot CLI + Azure AI to build a complete video production pipeline — from idea to...
+
+</details>
+
+<details>
+<summary><strong>Azure networking - active</strong> (11)</summary>
+
+- [azure-networking-docs-watch](https://github.com/adstuart/azure-networking-docs-watch) — Public-source Azure Networking docs and API update ticker
+- [azure-vwan-routemaps-asn](https://github.com/adstuart/azure-vwan-routemaps-asn) — Guidance on which ASN to use (Public/Private/Reserved) when using the Virtual WAN Route-Maps feature for...
+- [ergw-ars-prefix-lab](https://github.com/adstuart/ergw-ars-prefix-lab) — Empirical Azure lab: ERGW + ARS prefix advertisement / dedup with shared ER circuits
+- [azure-privatelink-multiregion](https://github.com/adstuart/azure-privatelink-multiregion) — DNS considerations for multi-region use of Azure Private Link
+- [vwan-ri-default-route-proof](https://github.com/adstuart/vwan-ri-default-route-proof) — Proof lab for Azure Virtual WAN Routing Intent default route advertisement to S2S VPN branches
+- [azure-advertised-gateway-prefixes-lab](https://github.com/adstuart/azure-advertised-gateway-prefixes-lab) — Lab findings on the new Azure summarizedGatewayPrefixes VNet property
+- [vwan-azfw-custompip-lab](https://github.com/adstuart/vwan-azfw-custompip-lab) — Lab: validate Azure Firewall customer-provided public IP prefix feature in vWAN secured hub (Sweden Central)
+- [vwan-hrp-aspath-lab](https://github.com/adstuart/vwan-hrp-aspath-lab) — Lab evidence: Azure VWAN Hub Routing Preference = AS Path moves inter-hub traffic off ExpressRoute MSEE...
+- [azure-dns-blackhole-lab](https://github.com/adstuart/azure-dns-blackhole-lab) — Azure DNS Private Resolver wildcard blackhole test — does Azure Firewall Premium still deploy when VNet DNS...
+- [vtap-pls-test](https://github.com/adstuart/vtap-pls-test) — Azure Virtual Network TAP (vTAP) + Private Link Service lab: can you bridge packet mirroring across...
+- [azure-firewall-vwan-multipip](https://github.com/adstuart/azure-firewall-vwan-multipip) — Raw testing logs from using customer-managed PiPs at scale on AZFW in VWAN Hub
+
+</details>
+
+<details>
+<summary><strong>Azure networking - older or archived</strong> (31)</summary>
+
+- [azure-privatelink-policy](https://github.com/adstuart/azure-privatelink-policy) — Guidance on the use of Azure Policy and Azure Role Based Access Control (RBAC) when working with Azure... _(archived)_
+- [azure-privatelink-dns-azurefirewall](https://github.com/adstuart/azure-privatelink-dns-azurefirewall) — Using Azure Firewall DNS forwarding function, to provide proxying of DNS requests from On-Premises private... _(archived)_
+- [azure-private-subnet](https://github.com/adstuart/azure-private-subnet) — Terse logs from testing Private Subnet feature (preview) _(archived)_
+- [azure-firewall-deallocate](https://github.com/adstuart/azure-firewall-deallocate) — Pause and restart Azure Firewall resources for optimised consumption costs in lab/testing scenarios _(archived)_
+- [azurenetworkingmindmap](https://github.com/adstuart/azurenetworkingmindmap) — A mind map diagram of all the products under the banner of "Azure Networking". _(archived)_
+- [-azure-privatelink-storage-dnsparition](https://github.com/adstuart/-azure-privatelink-storage-dnsparition) — Understand how to enable Private Endpoints for Azure Storage accounts using the new DNS partition feature _(archived)_
+- [azure-vnet-beyond-500-spokes](https://github.com/adstuart/azure-vnet-beyond-500-spokes) — Architecture options when you need to accommodate more than 500 Spoke Virtual Networks within a common...
+- [azure-vpn-s2s](https://github.com/adstuart/azure-vpn-s2s) — Articles and labs relating to S2S VPN solutions on Microsoft Azure. (VPN Gateway and Azure Virtual WAN)
+- [azure-expressroute-globalreach-avs](https://github.com/adstuart/azure-expressroute-globalreach-avs) — Optimal routing between Azure VNet and Azure VMware Solution (AVS) using ExpressRoute GlobalReach
+- [azure-vnetflowlogs-wheretoenable](https://github.com/adstuart/azure-vnetflowlogs-wheretoenable) — Discussion of the decision where to apply Virtual Network Flow Logs, impact of Hub-enablement only...
+- [azure-sdwan](https://github.com/adstuart/azure-sdwan) — Azure Networking patterns for SD-WAN integration
+- [azure-crossregion-private-lb](https://github.com/adstuart/azure-crossregion-private-lb) — Options for load-balancing across Azure Regions when accessing to/from a hybrid private network.
+- [azure-expressroute-migration](https://github.com/adstuart/azure-expressroute-migration) — How to approach migrating from one ExpressRoute circuit to another ExpressRoute circuit, with a focus on...
+- [azure-anycast-interregion](https://github.com/adstuart/azure-anycast-interregion) — Azure Anycast inter-region routing and Azure Route Server MSEE transit gotchas
+- [azure-arc-esu](https://github.com/adstuart/azure-arc-esu) — Network considerations related to enablement of Azure Arc management agent, in support of Extended Security...
+- [azure-vwan-s2s-forcedtunnel](https://github.com/adstuart/azure-vwan-s2s-forcedtunnel) — Forced tunneling for Azure Virtual WAN site-to-site VPN configuration
+- [azure-expressroute-ecmp](https://github.com/adstuart/azure-expressroute-ecmp) — ExpressRoute outbound ECMP behaviour
+- [azure-vwan-defaultroute](https://github.com/adstuart/azure-vwan-defaultroute) — Miscellaneous tech notes relating to the use of default route (0.0.0.0/0) and Azure Virtual WAN
+- [azure-resolver-topologyoptions](https://github.com/adstuart/azure-resolver-topologyoptions) — A comparison of network topology options when using Azure DNS Private Resolver. (Ruleset VNet links vs...
+- [azure-vpn-p2s](https://github.com/adstuart/azure-vpn-p2s) — Articles and labs relating to P2S Client VPN solutions on Microsoft Azure
+- [azure-routeserver-summarisation](https://github.com/adstuart/azure-routeserver-summarisation) — Azure Route Server prefix limits and summarisation guidance
+- [azure-privatelink-multiregion-services](https://github.com/adstuart/azure-privatelink-multiregion-services) — A list of all Azure PaaS services that utilise Private Link, and a categorisation of how they behave in...
+- [azure-gwlb-chain](https://github.com/adstuart/azure-gwlb-chain) — An explanation of the value in, and configuration of, using Azure Gateway Load Balancer to insert a layer...
+- [azure-privatelink-dns-microhack](https://github.com/adstuart/azure-privatelink-dns-microhack) — This repository consists of two things. A script to setup a simple Hub/Spoke Azure network and simulated...
+- [azure-privatelink-multiregion-siterecovery-asr](https://github.com/adstuart/azure-privatelink-multiregion-siterecovery-asr) — Azure Site Recovery and Azure Private Link DNS considerations
+- [azure-routeserver-anycast](https://github.com/adstuart/azure-routeserver-anycast) — Use Azure Route Server for multi-region Anycast load balancing within private networks
+- [azure-vwan-asa](https://github.com/adstuart/azure-vwan-asa) — Connecting a Cisco ASA to Azure Virtual WAN via IPsec VPN
+- [azure-vwan-anycast](https://github.com/adstuart/azure-vwan-anycast) — Use Azure Virtual WAN Hub BGP Peering for multi-region Anycast load balancing within private networks
+- [azure-routeserver-infoblox](https://github.com/adstuart/azure-routeserver-infoblox) — Infoblox Anycast with Azure Route Server
+- [azure-expressroute-direct-local](https://github.com/adstuart/azure-expressroute-direct-local) — Combining ExpressRoute Direct with ExpressRoute Local
+- [azure-dnat-floatingip-csr](https://github.com/adstuart/azure-dnat-floatingip-csr) — Azure Load Balancer Floating IP to On-Premises (or AVS) backend
+
+</details>
+
+<details>
+<summary><strong>Tools, demos, and experiments</strong> (3)</summary>
+
+- [latency-fibre-hcf-starlink](https://github.com/adstuart/latency-fibre-hcf-starlink) — Physics-grounded latency comparison: fibre vs hollow-core vs Starlink (UK<->NYC, UK<->Sydney)
+- [cloud-networking-compared](https://github.com/adstuart/cloud-networking-compared) — Interactive comparison of networking features across Azure, AWS, and GCP — 64 features, 10 categories
+- [azure-storage-local-arc](https://github.com/adstuart/azure-storage-local-arc) — Azure IoT Edge storage module combined with ARC Storage replication
+
+</details>
+<!-- PUBLIC-REPOS:END -->
