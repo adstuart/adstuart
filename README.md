@@ -1,15 +1,7 @@
 # Adam Stuart
 
-## Introduction
-
 I work at Microsoft, focused on cloud and AI: mapping requirements to
-solutions. My background is in networking.
-
-[LinkedIn](https://linkedin.com/in/adamstuart1) ·
-[YouTube](https://www.youtube.com/channel/UCRAegs4OmMFVGcU9tDBRlKg) ·
-[Azure Networking Book](https://azurenetworkingbook.com)
-
-## Public repos
+solutions. My background is in networking. [LinkedIn](https://linkedin.com/in/adamstuart1) · [YouTube](https://www.youtube.com/channel/UCRAegs4OmMFVGcU9tDBRlKg) · [book](https://azurenetworkingbook.com)
 
 Most repos here are field notes, labs, and reference guides rather than product
 code. This index is generated from my public GitHub repositories and refreshes
