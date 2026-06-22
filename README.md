@@ -3,13 +3,12 @@
 I work at Microsoft as a Solutions Engineer in Cloud and AI. My background is in Infra and Networking. Most repos here are field notes, labs, and reference guides rather than raw code.
 
 <!-- PUBLIC-REPOS:START -->
-_Generated from public GitHub repo metadata. Latest activity: 2026-06-17._
+_Generated from public GitHub repo metadata. Latest activity: 2026-06-18._
 
 <details>
-<summary><strong>AI and agents</strong> (6)</summary>
+<summary><strong>AI and agents</strong> (5)</summary>
 
 - [gateways-in-microsoft-foundry](https://github.com/adstuart/gateways-in-microsoft-foundry) (2026) — Public guide to gateway layers for Microsoft Foundry, APIM AI Gateway, model routing, MCP, WAF, and OWASP...
-- [goal-maker-ghcp](https://github.com/adstuart/goal-maker-ghcp) (2026) — Codex-style goal loop for GitHub Copilot CLI
 - [copilot-cli-cost-meter](https://github.com/adstuart/copilot-cli-cost-meter) (2026) — Read-only /cost extension for GitHub Copilot CLI that estimates session token usage and AI Credit spend.
 - [azure-foundry-governance](https://github.com/adstuart/azure-foundry-governance) (2026) — This document evaluates the architectural decision between deploying a single Azure AI Foundry resource or...
 - [copilot-teams-bridge](https://github.com/adstuart/copilot-teams-bridge) (2026) — Teams ↔ Copilot CLI bridge — talk to your local dev machine from your phone
@@ -18,12 +17,11 @@ _Generated from public GitHub repo metadata. Latest activity: 2026-06-17._
 </details>
 
 <details>
-<summary><strong>Azure networking</strong> (43)</summary>
+<summary><strong>Azure networking</strong> (42)</summary>
 
 - [azure-vwan-nat-asymmetry-lab](https://github.com/adstuart/azure-vwan-nat-asymmetry-lab) (2026) — Reproducible Azure Virtual WAN lab: Active/Active VPN gateway + NAT return-path asymmetry — root cause, BGP...
 - [ergw-ars-prefix-lab](https://github.com/adstuart/ergw-ars-prefix-lab) (2026) — Empirical Azure lab: ERGW + ARS prefix advertisement / dedup with shared ER circuits
 - [vwan-ri-default-route-proof](https://github.com/adstuart/vwan-ri-default-route-proof) (2026) — Proof lab for Azure Virtual WAN Routing Intent default route advertisement to S2S VPN branches
-- [azure-networking-docs-watch](https://github.com/adstuart/azure-networking-docs-watch) (2026) — Public-source Azure Networking docs and API update ticker
 - [azure-advertised-gateway-prefixes-lab](https://github.com/adstuart/azure-advertised-gateway-prefixes-lab) (2026) — Lab findings on the new Azure summarizedGatewayPrefixes VNet property
 - [vwan-azfw-custompip-lab](https://github.com/adstuart/vwan-azfw-custompip-lab) (2026) — Lab: validate Azure Firewall customer-provided public IP prefix feature in vWAN secured hub (Sweden Central)
 - [azure-dns-blackhole-lab](https://github.com/adstuart/azure-dns-blackhole-lab) (2026) — Azure DNS Private Resolver wildcard blackhole test — does Azure Firewall Premium still deploy when VNet DNS...
@@ -67,10 +65,8 @@ _Generated from public GitHub repo metadata. Latest activity: 2026-06-17._
 </details>
 
 <details>
-<summary><strong>Tools, demos, and experiments</strong> (3)</summary>
+<summary><strong>Tools, demos, and experiments</strong> (1)</summary>
 
-- [latency-fibre-hcf-starlink](https://github.com/adstuart/latency-fibre-hcf-starlink) (2026) — Physics-grounded latency comparison: fibre vs hollow-core vs Starlink (UK<->NYC, UK<->Sydney)
-- [cloud-networking-compared](https://github.com/adstuart/cloud-networking-compared) (2026) — Interactive comparison of networking features across Azure, AWS, and GCP — 64 features, 10 categories
 - [azure-storage-local-arc](https://github.com/adstuart/azure-storage-local-arc) (2025) — Azure IoT Edge storage module combined with ARC Storage replication
 
 </details>
