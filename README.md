@@ -62,10 +62,4 @@ I work at Microsoft as a Solutions Engineer in Cloud and AI. My background is in
 
 </details>
 
-<details>
-<summary><strong>Tools, demos, and experiments</strong> (1)</summary>
-
-- [azure-storage-local-arc](https://github.com/adstuart/azure-storage-local-arc) (2025) — Azure IoT Edge storage module combined with ARC Storage replication
-
-</details>
 <!-- PUBLIC-REPOS:END -->
